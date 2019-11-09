@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1tzCPbPvBtRzFvyiVW6O3_XoMNIe34rzC2Axu0Sss
 3. JVM
 https://www.youtube.com/watch?v=7tndaxgk1E8
 
+4. tool
+> jconsole
+> jvisualvm
