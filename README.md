@@ -6,4 +6,6 @@ https://coderwall.com/p/euwpig/a-better-git-log
 
 2. Big O: 
 https://docs.google.com/presentation/d/1tzCPbPvBtRzFvyiVW6O3_XoMNIe34rzC2Axu0Sss0FU/edit#slide=id.g49513ca10a_2_81
+3. JVM
+https://www.youtube.com/watch?v=7tndaxgk1E8
 
