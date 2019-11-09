@@ -1,5 +1,5 @@
 # Java-Road-Map
-https://github.com/lengcheng111/Java-Road-Map/blob/master/The%202019%20Java%20Developer%20RoadMap.jpg
+![Java Road Map](https://github.com/lengcheng111/Java-Road-Map/blob/master/The%202019%20Java%20Developer%20RoadMap.jpg)
 1. Essential Git: 
 https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
 https://coderwall.com/p/euwpig/a-better-git-log
